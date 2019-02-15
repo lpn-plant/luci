@@ -1,10 +1,15 @@
 # Changelog
 
-## [Unreleased](https://gitlab.com/lpn-plant/gateway/luci/compare/v1.0.0...lpnGate)
-
 ---
 
-## 2019-01-XX: [1.0.0]
+## 2019-02-15: [1.1.0]
+
+### Add
+
+* `luci-app-lorawan` - packet-forwarder configuration app
+
+
+## 2019-01-14: [1.0.0]
 
 ### Add
 
