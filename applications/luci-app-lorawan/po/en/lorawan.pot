@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "LoRaWAN"
+msgstr "LoRaWAN"
+
+msgid "LoRaWAN gateway configuration"
+msgstr "LoRaWAN gateway configuration"
+
+msgid "Gateway EUI"
+msgstr "Gateway EUI"
+
+msgid "Gateway id. Format: aabbaabbaabbaabb"
+msgstr "Gateway id. Format: aabbaabbaabbaabb"
+
+msgid "LoRaWAN host address"
+msgstr "LoRaWAN host address"
+
+msgid "localhost or TTN gateway address"
+msgstr "localhost or TTN gateway address"
+
+msgid "Uplink port"
+msgstr "Uplink port"
+
+msgid "Port used to send uplink packets"
+msgstr "Port used to send uplink packets"
+
+msgid "Downlink port"
+msgstr "Downlink port"
+
+msgid "Port used to send downlink packets"
+msgstr "Port used to send downlink packets"
